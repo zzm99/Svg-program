@@ -1,0 +1,1 @@
+(S (NNP List) (NP (X (NP (DT the) (NN name)) (IN of)) (NP (NNS tracks))) (VP (VBP belongs) (PP (TO to) (NP (NN genre) (NNP Rock)))) (CC and) (SBAR (WHNP (WP$ whose) (NX (NNS media) (NN type))) (S (VP (VBZ is) (NP (JJ MPEG) (JJ audio) (NN file))))) (. .))

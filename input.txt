@@ -1,0 +1,35 @@
+
+
+(S (S (VP (VB Show) (NP (DT all) (NX (NN card) (NN type) (NNS codes))))) (. .))
+
+
+
+
+(SBARQ (WHADJP (WRB How) (JJ many)) (S (NNS customers) (VP (VBP have) (NP (DT an) (NN account)))) (. ?))
+
+
+
+(S (S (VP (VB Show) (NP (DT the) (NX (NN customer) (NN id)) (CC and) (NX (NP (NN number)) (PP (IN of) (NP (NNS accounts)))) (PP (IN with) (NP (JJS most) (NNS accounts)))))) (. .))
+
+
+(SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (NX (DT the) (JJ average) (NNS sales) (IN of) (DT the) (NNS journals) (WHNP (WDT that)) (NX (VBP have) (NP (DT an) (NN editor)) (WHADVP (WHNP (WP$ whose) (NX (NN work) (NN type))) (VBZ is) (`` ``)))) (NP (NNP Photo)) ('' ''))) (. ?))
+
+
+
+(SBARQ (WHNP (WP What)) (SQ (VP (VBP are) (NP (NP (DT the) (NNS names) (CC and) (NNS ages)) (PP (IN of) (NP (NNS editors)))))) (. ?))
+
+(SBARQ (WHNP (WRB How) (JJ much)) (SQ (VBZ is) (NP (NP (DT the) (NN track)) (NP (NNP Fast) (PP (IN As) (NP (DT a) (NNP Shark)))))) (. ?))
+
+
+
+(SBARQ (SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP (NP (DT the) (NX (JJ total) (NN amount))) (IN of) (PRN (NP (NN money)) (VP (VBN spent) (PP (IN by) (NP (NNP Lucas) (NNP Mancini)))))))) (. ?))
+
+
+
+(S (IN List) (NP (NP (DT the) (NN name)) (PP (IN of) (NP (NNS tracks)))) (X (VBP belongs) (TO to)) (NP (NN genre)) (NNP Rock) (CC or) (NP (NNS media) (NN type)) (VP (VBZ is) (NP (NNP MPEG) (JJ audio) (NN file))) (. .))
+
+
+
+(SBARQ (WHNP (WP What)) (SQ (VP (VBP are) (NP (NP (DT the) (NNS names) (CC and) (NNS ages)) (PP (IN of) (NP (NNS editors)))))) (. ?))
+
+(S (NNP List) (NP (X (NP (DT the) (NN name)) (IN of)) (NP (NNS tracks))) (VP (VBP belongs) (PP (TO to) (NP (NN genre) (NNP Rock)))) (CC and) (SBAR (WHNP (WP$ whose) (NX (NNS media) (NN type))) (S (VP (VBZ is) (NP (JJ MPEG) (JJ audio) (NN file))))) (. .))
